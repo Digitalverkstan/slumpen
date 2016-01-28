@@ -23,7 +23,7 @@ När vi är klara ska vi ha sex lysdioder på rad. När man trycker ner knappen 
 
 ### Bygg
 
-![Ritning](https://github.com/Digitalverkstan/slumpen/blob/maser/img/slumpen_bb.png)
+![Ritning](https://github.com/Digitalverkstan/slumpen/blob/master/img/slumpen_bb.png)
 
 Fritzing-schemat stämmer inte riktigt eftersom en komponent saknas - resistorskenan.
 En resistorskena är ett gäng resistorer med samma värde (8 st i vårt fall) som är sammankopplade på ena sidan. Den komponenten gör det väldigt lätt att använda många lysdioder med få kablar. Nedan ser du ett schema för hur en resistorskena är byggd, och hur komponenten ser ut i den färdiga kretsen.
